@@ -92,10 +92,4 @@ This project presents an interactive **Human Resources Analytics Dashboard** bui
 - **Attrition Analysis**:  
   Certain departments like Customer Service see higher termination rates.
 
----
 
-## Future Enhancements
-
-- Integration of real-time HRIS systems for dynamic updates.
-- Addition of sentiment analysis from employee feedback.
-- Predictive analytics for churn and recruitment planning.
