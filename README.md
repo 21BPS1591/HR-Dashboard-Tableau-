@@ -17,7 +17,6 @@ This project presents an interactive **Human Resources Analytics Dashboard** bui
 ### [2. HR Dashboard.twbx](https://github.com/21BPS1591/HR-Dashboard-Tableau-/blob/main/HR%20Dashboard.twbx)
 
 ### [3. Visual Assets](https://github.com/21BPS1591/HR-Dashboard-Tableau-/tree/main/Icons%20%26%20Images)
-- Contains all custom icons and images used within the dashboard.
 
 ### [4. mockups.drawio](https://github.com/21BPS1591/HR-Dashboard-Tableau-/blob/main/mockups.drawio)
 
